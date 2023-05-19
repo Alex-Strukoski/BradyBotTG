@@ -2,11 +2,6 @@
 
 Um chatbot para Telegram que se integra com as APIs do OpenAI para fornecer serviços de provedores de internet. Pronto para usar com configuração mínima necessária.
 
-## Screenshots
-
-![BradyBot conversando com um usuário sobre planos de internet](screenshots/bradybot1.png)
-![BradyBot gerando uma fatura para um usuário](screenshots/bradybot2.png)
-
 ## Recursos
 
 - Suporte a markdown nas respostas
