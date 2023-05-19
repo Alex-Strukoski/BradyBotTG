@@ -1,11 +1,3 @@
-[]: # Title: BradyBot ChatBot
-[]: # Description: Um chatbot para Telegram que se integra com as APIs do OpenAI para fornecer serviços de provedores de internet. Pronto para usar com configuração mínima necessária.
-[]: # Author: Alexandre Magno Strukoski
-[]: # Created: 2021-10-17T14:00:00-03:00
-[]: # Modified: 2021-10-17T14:00:00-03:00
-[]: # Template: README.md
-[]: # License: GNU License
-
 # BradyBot
 
 Um chatbot para Telegram que se integra com as APIs do OpenAI para fornecer serviços de provedores de internet. Pronto para usar com configuração mínima necessária.
