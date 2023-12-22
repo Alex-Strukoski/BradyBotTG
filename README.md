@@ -87,8 +87,3 @@ Pronto! Agora você pode conversar com o seu bot no Telegram.
 /stats - Mostra as estatísticas pessoais de uso de tokens e custo.
 /help - Mostra a ajuda sobre como usar o bot.
 /help_group_chat - Mostra a ajuda sobre como usar o bot em chats em grupo.
-
-## Créditos
-
-Este projeto foi inspirado pelo chatgpt-telegram-bot¹ criado por n3d1117.
-Este projeto é um protótipo de um chatbot para provedores de internet que se integra com as APIs do OpenAI feito pela Bradypus.
